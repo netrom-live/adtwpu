@@ -1,1 +1,1 @@
-Write-Output "TestScript1"
+Write-Output "This is a TestScript"
